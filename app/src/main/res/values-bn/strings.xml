@@ -323,7 +323,6 @@
     <string name="select_region_qr">QR কোড সঙ্গে অঞ্চল নির্বাচন করুন</string>
     
     <string name="need_help">আমাদের সাথে যোগাযোগ করুন</string>
-    <string name="help_line_number">8000000000</string>
     <string name="transferred_successfully">সফল স্থানান্তর</string>
 
     <string name="total">মোট:</string>
@@ -407,13 +406,24 @@
     <string name="all_rights_reserved">সমস্ত অধিকার সংরক্ষিত।</string>
     <string name="licenses">লাইসেন্সকরণ</string>
     <string name="transfer_error">একটি স্থানান্তর করতে পারবেন না, পরে আবার চেষ্টা করুন</string>
-    <string name="please_wait">অনুগ্রহ করে অপেক্ষা করুন ...</string>
+    <string name="please_wait">অনুগ্রহ করে অপেক্ষা করুন …</string>
     <string name="message">বার্তা</string>
     <string name="no_notification">কোন বিজ্ঞপ্তি নেই</string>
 
     <string name="pref_base_url_title">শেষ বিন্দু আপডেট করুন</string>
     <string name="pref_base_url_desc">Endpoint কনফিগারেশন পরিবর্তন করতে এখানে ক্লিক করুন</string>
-    <string name="pref_configuration">pref_configuration</string>
     <string name="enter_base_url">প্রাথমিক URL লিখুন</string>
     <string name="enter_tenant">ভাড়াটে যান</string>
+    <string name="error_no_charge">কোন অভিযোগ পাওয়া যায় নি</string>
+    <string name="map_marker_heading">সিয়াটেল</string>
+    <string name="one">১</string>
+    <string name="two">২</string>
+    <string name="three">৩</string>
+    <string name="four">৪</string>
+    <string name="five">৫</string>
+    <string name="six">৬</string>
+    <string name="seven">৭</string>
+    <string name="eight">৮</string>
+    <string name="nine">৯</string>
+    <string name="zero">০</string>
 </resources>
